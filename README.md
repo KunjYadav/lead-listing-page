@@ -3,8 +3,8 @@
 **Candidate Name:** Kunj Bihari Yadav
 **Position:** Frontend Developer
 
-**Live Demo:** [Insert your Vercel/Netlify link here]
-**GitHub Repository:** [Insert your GitHub repository link here]
+**Live Demo:** [[Live Demo](https://lead-listing-page.vercel.app/)]
+**GitHub Repository:** [[GitHub repository link](https://github.com/KunjYadav/lead-listing-page.git)]
 
 ---
 
@@ -55,18 +55,19 @@ No backend setup is required — all lead data is local mock data in `src/data/m
 - **Responsive Layout:** Data table on desktop (`md:` breakpoint and up), card list on mobile.
 
 - **UI/UX Polish:**
-- Clean, professional design with proper spacing and clear headings.
 
-- Status badges with a matching color-coded left border on each row/card for quick scanning.
+  - Clean, professional design with proper spacing and clear headings.
 
-- Empty message shown when the search + filter combination returns no results.
+  - Status badges with a matching color-coded left border on each row/card for quick scanning.
+
+  - Empty message shown when the search + filter combination returns no results.
 
 - **Bonus Features Implemented:**
-- Sort dropdown: by name (A–Z) or by status (pipeline order).
+  - Sort dropdown: by name (A–Z) or by status (pipeline order).
 
-- Summary cards showing total leads and a per-status count.
+  - Summary cards showing total leads and a per-status count.
 
-- Highly modular and reusable components (`StatusBadge`, `SummaryCards`, `SelectDropdown`, `DesktopLeadTable`, `MobileLeadCard`, `EmptyState`).
+  - Highly modular and reusable components (`StatusBadge`, `SummaryCards`, `SelectDropdown`, `DesktopLeadTable`, `MobileLeadCard`, `EmptyState`).
 
 ## Project structure
 
